@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DvwK0ElZPgaMIpRvvnbaz95PZJxUhP/Qh6hrf2xANfY=",
+  "Source": "SecureCMSEnterprise",
+  "BasePath": "_content/SecureCMSEnterprise",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
